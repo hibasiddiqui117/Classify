@@ -1,2 +1,2 @@
 # Classify
-Image Classification:
+Image Classification :
